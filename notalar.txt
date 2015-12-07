@@ -1,0 +1,219 @@
+Ölçü 1:
+Si 1/2
+Do 1/2
+Do 1
+Do 1
+
+Ölçü 2
+Do 1
+Re 1
+Mi1
+Re 1/4
+Mi 1/4
+Re 1/4
+Do 1/4
+Si 1/4
+Do 1/4
+Si 1/4
+La 1/4
+
+Ölçü 3
+Sol 1
+La 1/2
+Si 1/2
+Si 1
+Si 1
+
+Ölçü 4
+Si 1
+Do 1
+Re  1
+Do 1/4
+RE 1/4
+DO 1/4
+SÝ 1/4
+LA 1/4
+SÝ 1/4
+LA 1/4
+SOL 1/4
+
+Ölçü 5
+
+FA 1
+SOL  1/2
+LA 1/2
+LA 1/4
+SÝ  1/4
+LA 1/4
+SOL 1/4
+LA
+
+Ölçü 6
+
+LA 1
+LA 1
+SÝ 1
+SOL 1/4
+FA 1/4
+MÝ 1/4
+FA 1/4
+
+ÖLÇÜ 7
+
+RE 1
+MÝ  1/2
+FA 1/2
+FA 1
+FA 1/4
+MÝ 1/4
+RE 1/2
+
+ÖLÇÜ 8
+
+RE 1
+SOL 1
+LA 1
+FA 1
+MÝ 1
+
+Ölçü 9
+
+MÝ 1/2
+MÝ 1/2
+MÝ 1 
+MÝ 1
+
+ÖLÇÜ 10
+
+MÝ 1
+FA 1
+MÝ 1/2
+RE 1/2
+DO 1
+
+ÖLÇÜ 11
+
+MÝ 1
+FA 1
+MÝ 1/2
+RE 1/2
+DO 1
+
+ÖLÇÜ 12
+
+RE 1
+MÝ 1
+RE 1/2
+DO 1/2
+SÝ 1
+
+öLÇÜ 13
+
+DO 1/2
+DO 1/2
+DO 1/2
+SÝ 1/2
+DO 1
+
+ÖLÇÜ 14
+
+DO 1
+RE 1
+MÝ 1
+RE 1/2
+DO 1/2
+SÝ 1
+
+ÖLÇÜ 15
+
+SÝ 1
+SÝ 1/2
+SÝ 1/2 
+SÝ 1/2
+LA 1/2
+SOL 1
+
+ÖLÇÜ 16
+
+SOL 1 
+SOL 1/2
+LA 1/2
+LA 1/2
+Sol 1/2
+LA 1
+
+ölçü 17
+
+Do 1/2
+Do 1/2
+Do 1/2
+Si 1/2
+Do 1
+
+Ölçü 18
+
+Do 1
+Mi 1
+Re 1 
+RE 1/2
+Do 1/2
+Si 1
+
+
+ÖLÇÜ 19
+
+SÝ 1 
+SÝ  1/2
+SÝ 1/2
+SÝ 1/2
+LA 1/2
+SÝ 1
+
+Ölçü 20
+
+
+Si 1
+Do 1
+RE 1
+Do 1/2
+Si 1/2
+La 1
+
+Ölçü 21
+
+Sol 1/2
+La 1/2
+LA 1/2
+Sol 1/2
+La 1
+
+Ölçü 22
+
+La 1
+Si 1
+Sol 1/2
+Fa 1/2
+Mi 1/2
+Fa 1/2
+Mi 1/4
+
+Ölçü 23
+
+Re 1
+Mi 1/2
+Fa 1/2
+Fa 1
+Fa 1/4
+Mi 1/4
+RE 1/2
+
+Ölçü 24
+
+Sol 1
+LA 1
+Fa 1/2
+Mi 1/2
+Mi 1
+
+
+

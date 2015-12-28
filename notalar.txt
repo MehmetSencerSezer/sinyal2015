@@ -1,219 +1,220 @@
 Ölçü 1:
-Si 1/2
-Do 1/2
-Do 1
-Do 1
+Sus 1/4
+Si 1/8
+Do 1/8
+Do 1/4
+Do 1/4
 
 Ölçü 2
-Do 1
-Re 1
-Mi 1
+Do 1/9
 Re 1/4
-Mi 1/4
-Re 1/4
-Do 1/4
-Si 1/4
-Do 1/4
-Si 1/4
-La 1/4
+Mi 1/8
+Re 1/16
+Mi 1/16
+Re 1/16
+Do 1/16
+Si 1/16
+Do 1/16
+Si 1/16
+La 1/16
 
 Ölçü 3
-Sol 1
-La 1/2
-Si 1/2
-Si 1
-Si 1
+Sol 1/4
+La 1/8
+Si 1/8
+Si 1/4
+Si 1/4
 
 Ölçü 4
-Si 1
-Do 1
-Re 1
+Si 1/8
 Do 1/4
-Re 1/4
-Do 1/4
-Si 1/4
-La 1/4
-Si 1/4
-La 1/4
-Sol 1/4
+Re 1/8
+Do 1/16
+Re 1/16
+Do 1/16
+Si 1/16
+La 1/16
+Si 1/16
+La 1/16
+Sol 1/16
 
 Ölçü 5
 
-FA 1
-Sol  1/2
-La 1/2
+Fa 1/4
+Sol  1/8
+La 1/8
+La 1/16
+Si  1/16
+La 1/16
+Sol 1/16
 La 1/4
-Si  1/4
-La 1/4
-Sol 1/4
-La 1
 
 Ölçü 6
 
-La 1
-La 1
-Si 1
-Sol 1/4
-Fa 1/4
-Mi 1/4
-Fa 1/4
+La 1/8
+La 1/4
+Si 1/8
+Sol 1/8
+Fa 1/8
+Mi 1/8
+Fa 1/8
 
 ÖLÇÜ 7
 
-Re 1
-Mi  1/2
-Fa 1/2
-Fa 1
+Re 1/4
+Mi  1/8
+Fa 1/8
 Fa 1/4
-Mi 1/4
-Re 1/2
+Fa 1/16
+Mi 1/16
+Re 1/8
 
 ÖLÇÜ 8
 
-Re 1
-Sol 1
-La 1
-Fa 1
-Mi 1
+Re 1/8
+Sol 1/4
+La 1/8
+Fa 1/4
+Mi 1/4
 
 Ölçü 9
-
-Mi 1/2
-Mi 1/2
-Mi 1 
-Mi 1
+Sus 1/4
+Mi 1/8
+Mi 1/8
+Mi 1/4
+Mi 1/4
 
 ÖLÇÜ 10
-
-Mi 1
-Fa 1
-Mi 1/2
-Re 1/2
-Do 1
+Sus 1/8
+Mi 1/4
+Fa 1/8
+Mi 1/8
+Re 1/8
+Do 1/4
 
 ÖLÇÜ 11
-
-Mi 1
-Fa 1
-Mi 1/2
-Re 1/2
-Do 1
+Sus 1/8
+Mi 1/4
+Fa 1/8
+Mi 1/8
+Re 1/8
+Do 1/4
 
 ÖLÇÜ 12
-
-Re 1
-Mi 1
-Re 1/2
-Do 1/2
-Si 1
+Sus 1/8
+Re 1/4
+Mi 1/8
+Re 1/8
+Do 1/8
+Si 1/4
 
 öLÇÜ 13
-
-Do 1/2
-Do 1/2
-Do 1/2
-Si 1/2
-Do 1
+Sus 1/4
+Do 1/8
+Do 1/8
+Do 1/8
+Si 1/8
+Do 1/4
 
 ÖLÇÜ 14
 
-Do 1
-Re 1
-Mi 1
-Re 1/2
-Do 1/2
-Si 1
+Do 1/8
+Re 1/4
+Mi 1/8
+Re 1/8
+Do 1/8
+Si 1/4
 
 ÖLÇÜ 15
 
-Si 1
-Si 1/2
-Si 1/2 
-Si 1/2
-La 1/2
-Sol 1
+Si 1/4
+Si 1/8
+Si 1/8 
+Si 1/8
+La 1/8
+Sol 1/4
 
 ÖLÇÜ 16
 
-Sol 1 
-Sol 1/2
-La 1/2
-La 1/2
-Sol 1/2
-La 1
+Sol 1/4 
+Sol 1/8
+La 1/8
+La 1/8
+Sol 1/8
+La 1/4
 
 ölçü 17
-
-Do 1/2
-Do 1/2
-Do 1/2
-Si 1/2
-Do 1
+sus 1/4
+Do 1/8
+Do 1/8
+Do 1/8
+Si 1/8
+Do 1/4
 
 Ölçü 18
 
-Do 1
-Mi 1
-Re 1 
-RE 1/2
-Do 1/2
-Si 1
+Do 1/8
+Mi 1/4
+Re 1/8
+RE 1/8
+Do 1/8
+Si 1/4
 
 
 ÖLÇÜ 19
 
-Si 1 
-Si  1/2
-Si 1/2
-Si 1/2
-La 1/2
-Si 1
+Si 1/4
+Si  1/8
+Si 1/8
+Si 1/8
+La 1/8
+Si 1/4
 
 Ölçü 20
 
 
-Si 1
-Do 1
-Re 1
-Do 1/2
-Si 1/2
-La 1
+Si 1/8
+Do 1/4
+Re 1/8
+Do 1/8
+Si 1/8
+La 1/4
 
 Ölçü 21
-
-Sol 1/2
-La 1/2
-La 1/2
-Sol 1/2
-La 1
+Sus 1/4
+Sol 1/8
+La 1/8
+La 1/8
+Sol 1/8
+La 1/4
 
 Ölçü 22
 
-La 1
-Si 1
-Sol 1/2
-Fa 1/2
-Mi 1/2
-Fa 1/2
-Mi 1/4
+La 3/8
+Si 1/8
+Sol 1/8
+Fa 1/8
+Mi 1/8
+Fa 1/16
+Mi 1/16
 
 Ölçü 23
 
-Re 1
-Mi 1/2
-Fa 1/2
-Fa 1
+Re 1/4
+Mi 1/8
+Fa 1/8
 Fa 1/4
-Mi 1/4
-Re 1/2
+Fa 1/8
+Mi 1/8
+Re 1/4
 
 Ölçü 24
-
-Sol 1
-La 1
-Fa 1/2
-Mi 1/2
-Mi 1
+sus 1/8
+Sol 1/4
+La 1/8
+Fa 1/8
+Mi 1/8
+Mi 1/4
 
 
 

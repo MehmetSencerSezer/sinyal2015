@@ -14,6 +14,6 @@ end
    z3=linspace(1,1,length(t)/2);
    z4=linspace(1,0,length(t)/8);
    zarf=[z1 z2 z3 z4];
-   x=x.*zarf;
- echo=((x-(fs/10))*30/100)+x; %echo nun hesaplanması
+   xx=xx.*zarf;
+ echo=((xx-(fs/10))*30/100)+xx; %echo nun hesaplanması
 end

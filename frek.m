@@ -12,7 +12,14 @@ end
 
                   if strcmp(nota,notalar{13})%eğer değer Sus a eşit ise
                       ff=0; %frekansı 0 a eşitledim.
+         
+              
+
+           
        end
+       
     end
+     
 end
+
 end
